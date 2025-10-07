@@ -1,6 +1,8 @@
 body {
-  background-color: # 2E0854; /* warna kuning cerah */
+  background-color: #2E0854; /* warna kuning cerah */
   font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah di baca */
+  color: #50C878; 
+  text-aligned: center;
 }
 .kartu-profil {
   width: 300px;
@@ -8,8 +10,7 @@ body {
   padding: 20px;
   background-color: cyan;
   border-radius: 15 px; /* membuat sudut menjadi melengkung */
-  box_shadow: 0 4px 8px  rgba (0,0,0,0,1); /* efek bayangan */
-  text-aligned: center ;
+  box_shadow: 0 4px 8px  rgba(200,80,120,1); /* efek bayangan */
 }
 .kartu-profil img {
   width: 150px;
