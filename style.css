@@ -8,7 +8,7 @@ body {
   padding: 20px;
   background-color: cyan;
   border-radius: 15 px; /* membuat sudut menjadi melengkung */
-  box_shadow: 0 4px 8px  rgba (0,0,0,0,); /* efek bayangan */
+  box_shadow: 0 4px 8px  rgba (0,0,0,0,1); /* efek bayangan */
   text-aligned: center ;
 }
 .kartu-profil img {
